@@ -83,3 +83,7 @@ fisher.test(table1)
 
 ## Conclusions
 
+In conclusion we reject the null hypothesis because of the odd of males dying is 2.3 times higher than female.
+
+
+
